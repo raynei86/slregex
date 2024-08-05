@@ -1,2 +1,2 @@
 * Slregex 
-A simple regex library made with thompson's algorithm for fun.
+A simple regex library based off of [[https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html][Rob Pike's code]], which means not using the more consistent FA approach.
