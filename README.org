@@ -1,0 +1,2 @@
+* Slregex 
+A simple regex library made with thompson's algorithm for fun.
